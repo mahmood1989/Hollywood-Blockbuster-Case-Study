@@ -1,4 +1,4 @@
-# Hollywood Blockbuster Case Study
+# Hollywood blockbuster case study
 Our goal is to develop a machine learning model that uses attributes such as genre, source, use of computer graphics, the star power of the cast, and etc. to predict  the degree of success of Hollywood movies (Quantiphi Project).
 
 The Hollywood movie production business has a very instinct and contact driven low-tech decision-making process that generates a portfolio of movies that a production house decides to fund in any given year. The same type of decision-making process is employed by movie stars and their agents to decide which projects to pursue and which ones to pass. This leads to a high degree of variation in the success rate of projects (as measured by gross box office receipts and return in investment). Most production houses employ a portfolio driven approach and diversify their risk across a number of low, medium and high budget movies.
